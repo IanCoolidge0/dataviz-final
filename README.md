@@ -13,9 +13,9 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+![sketch 1](concept.jpg)
 
+This sketch shows the main intended view of my viz. (Admittedly, not great artwork - that's why I have computers do it for me.) Users will be able to hover over a state and adjust hypothetical election scenarios, as well as viewing demographic data about each state and loading data from elections likely dating back to around 2000. A second view will allow users to see more detailed demographic information about a state, as well as its electoral history.
 
 ## Prototypes
 
