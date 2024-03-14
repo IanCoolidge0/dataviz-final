@@ -19,9 +19,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Prototypes
 
-I’ve created a proof of concept visualization as part of a previous assignment that shows statewide election data for the 2020 election.
-
-[!VizHub Map](https://vizhub.com/IanCoolidge0/758647f837c84e07894da40183b520fb)
+I’ve created a [proof of concept visualization](https://vizhub.com/IanCoolidge0/758647f837c84e07894da40183b520fb) as part of a previous assignment that shows statewide election data for the 2020 election.
 
 ## Open Questions
 
