@@ -25,6 +25,8 @@ I’ve created a [proof of concept visualization](https://vizhub.com/IanCoolidge
 
 The New York Times and FiveThirtyEight have made probably thousands of such visualizations at this point! Throughout the project I'll be looking at what I want to accomplish to stand out and create unique insights that don't typically appear in election visualizations.
 
-## Milestones
+## Project Self-Critique and Reprioritization (4/11)
 
-(for each week, estimate what would be accomplised)
+So far, I was able to achieve much of the basic functionality I set out to create with my visualization. Users are able to visualize presidential elections and view specific numbers in each state for various elecftion years. The following weeks will focus much more on answering the two questions above - for the first question, allowing users to enter their own election data, and for the second question, creating a second view that looks at a specific state and provides additional demographic information.
+
+In response to the open question on how to make my visualization stand out relative to the various available US election vizzes, I have settled on focusing on comprehensiveness wherever possible. The dataset I am using for presidential and senate elections provides highly specific numeric fields that can allow users to very precisely measure election outcomes that might not always be possible in simpler visualizations. However, as I continue adding features over the next few weeks I plan to prioritize simplicity in the main view, so that users that don't need massive amounts of comprehensive data can get something easily digestible.
